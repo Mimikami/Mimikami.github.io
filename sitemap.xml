@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://Mimikami.github.io/categories/index.html</loc>
+    <lastmod>2015-12-20T09:43:45.818Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://Mimikami.github.io/2015/11/07/hello-world/</loc>
     <lastmod>2015-11-07T07:19:30.053Z</lastmod>
   </url>
